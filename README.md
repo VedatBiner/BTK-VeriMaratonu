@@ -10,7 +10,7 @@ Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak e
 <ul>
     <li>Matplotlib
         <p>
-            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/matplotlib.ipynb">Örnek Çalışma</a>
+            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Matplotlib.ipynb">Örnek Çalışma</a>
         </p>
     </li>
     <li>Seaborn
