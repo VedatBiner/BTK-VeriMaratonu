@@ -8,9 +8,21 @@ Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak e
 </P>
 <b>1.2. Veri Görselleştirme Örnekleri</b>
 <ul>
-    <li>Matplotlib</li>
-    <li>Seaborn</li>
-    <li>Plotly</li>
+    <li>Matplotlib
+        <p>
+            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/matplotlib.ipynb">Örnek Çalışma</a>
+        </p>
+    </li>
+    <li>Seaborn
+        <p>
+            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/seaborn.ipynb">Örnek Çalışma</a>
+        </p>
+    </li>
+    <li>Plotly
+        <p>
+            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/plotly.ipynb">Örnek Çalışma</a>
+        </p>
+    </li>
 </ul>
 <b>1.3. Regresyon Örnekleri</b>
 <p>
