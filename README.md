@@ -2,7 +2,7 @@
 ## 1. BTK Akademi Veri Maratonu Çalışması Örnekleri
 ### 1.1. Veri Analizi Örneği
 <P>
-Burada kodlama işlemi için <b><a href="file://olympic.ipynb">Olympic.ipynb</a></b> dosyası kullanıldı.
+Burada kodlama işlemi için <b><a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/olympic.ipynb">Olympic.ipynb</a></b> dosyası kullanıldı.
 Veri seti olarak <B>olimpiyatlar.csv</B> dosyası kullanılmıştır.
 Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak elde edilmiştir.
 </P>
