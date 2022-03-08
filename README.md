@@ -9,19 +9,13 @@ Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak e
 <b>1.2. Veri Görselleştirme Örnekleri</b>
 <ul>
     <li>Matplotlib
-        <p>
-            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Matplotlib.ipynb">Örnek Çalışma</a>
-        </p>
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Matplotlib.ipynb"> - Örnek Çalışma</a>
     </li>
     <li>Seaborn
-        <p>
-            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/seaborn.ipynb">Örnek Çalışma</a>
-        </p>
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/seaborn.ipynb"> - Örnek Çalışma</a>
     </li>
     <li>Plotly
-        <p>
-            <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/plotly.ipynb">Örnek Çalışma</a>
-        </p>
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/plotly.ipynb"> - Örnek Çalışma</a>
     </li>
 </ul>
 <b>1.3. Regresyon Örnekleri</b>
@@ -31,14 +25,14 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <ul>
     <li>
         Doğrusal Regresyon
-        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon1.ipynb">Örnek Çalışma</a>
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon1.ipynb"> - Örnek Çalışma</a>
     </li>
     <li>
         Çoklu Doğrusal Regresyon
-        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon2.ipynb">Örnek Çalışma</a>
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon2.ipynb"> - Örnek Çalışma</a>
     </li>
     <li>
         Polinomial Regresyon
-        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon3.ipynb">Örnek Çalışma</a>
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon3.ipynb"> - Örnek Çalışma</a>
     </li>
 </ul>
