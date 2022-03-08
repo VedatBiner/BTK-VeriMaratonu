@@ -36,3 +36,5 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
         <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon3.ipynb"> - Örnek Çalışma</a>
     </li>
 </ul>
+<H2>R2 Değerini Bulalım</H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/R2.ipynb"> - Örnek Çalışma</a>
