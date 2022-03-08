@@ -31,14 +31,14 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <ul>
     <li>
         Doğrusal Regresyon
-        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon1.ipynb">Örnek Çalışma
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon1.ipynb">Örnek Çalışma</a>
     </li>
     <li>
         Çoklu Doğrusal Regresyon
-        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon2.ipynb">Örnek Çalışma
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon2.ipynb">Örnek Çalışma</a>
     </li>
     <li>
         Polinomial Regresyon
-        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon3.ipynb">Örnek Çalışma
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon3.ipynb">Örnek Çalışma</a>
     </li>
 </ul>
