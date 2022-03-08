@@ -1,12 +1,12 @@
 <img src="BTK-VeriMaratonu.png" width="auto"></img>
-## 1. BTK Akademi Veri Maratonu Çalışması Örnekleri
-### 1.1. Veri Analizi Örneği
+<H1> BTK Akademi Veri Maratonu Çalışması Örnekleri</H1>
+<H2> Veri Analizi Örneği </H2>
 <P>
 Burada kodlama işlemi için <b><a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/olympic.ipynb">Olympic.ipynb</a></b> dosyası kullanıldı.
 Veri seti olarak <B>olimpiyatlar.csv</B> dosyası kullanılmıştır.
 Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak elde edilmiştir.
 </P>
-<b>1.2. Veri Görselleştirme Örnekleri</b>
+<H2> Veri Görselleştirme Örnekleri </H2>
 <ul>
     <li>Matplotlib
         <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Matplotlib.ipynb"> - Örnek Çalışma</a>
@@ -18,7 +18,7 @@ Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak e
         <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/plotly.ipynb"> - Örnek Çalışma</a>
     </li>
 </ul>
-<b>1.3. Regresyon Örnekleri</b>
+<H2> Regresyon Örnekleri </H2>
 <p>
 Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirmeniz gerekir. 
 </p>
