@@ -29,7 +29,16 @@ Temizlenmiş veri seti ise <B>olimpiyatlar_temizlenmis.csv</B> dosyası olarak e
 Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirmeniz gerekir. 
 </p>
 <ul>
-    <li>Doğrusal Regresyon</li>
-    <li>Çoklu Doğrusal Regresyon</li>
-    <li>Polinomial Regresyon</li>
+    <li>
+        Doğrusal Regresyon
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon1.ipynb">Örnek Çalışma
+    </li>
+    <li>
+        Çoklu Doğrusal Regresyon
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon2.ipynb">Örnek Çalışma
+    </li>
+    <li>
+        Polinomial Regresyon
+        <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Regresyon3.ipynb">Örnek Çalışma
+    </li>
 </ul>
