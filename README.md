@@ -44,5 +44,8 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <p>Lojistik Regresyon Kütüphanesi Kullanılmadan Fonksiyon Yazılarak Kodlama
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-ManLojReg.ipynb"> - Örnek Çalışma</a></p>
 
-<H2> KNN Örneği </H2>
+<H2> K-Nearest Neighbors (KNN) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_knn.ipynb"> - Örnek Çalışma</a>
+
+<H2> Support Vector Machine (SVM) Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_svm.ipynb"> - Örnek Çalışma</a>
