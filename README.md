@@ -38,5 +38,8 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 </ul>
 <H2>R2 Değerini Bulalım</H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/R2.ipynb"> - Örnek Çalışma</a>
-<H2>Lojistik Regresyon Örneği (hatalı olabilir -kontrol et)</H2>
-<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik.ipynb"> - Örnek Çalışma</a>
+<H2>Lojistik Regresyon Örneği</H2>
+<H2>Lojistik Regresyon Kütüphanesi Kullanılarak Yapılan Kodlama</H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-LojReg.ipynb"> - Örnek Çalışma</a>
+<H2>Lojistik Regresyon Kütüphanesi Kullanılmadan Fonksiyon Yazılarak Kodlama (hatalı olabilir -kontrol et)</H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-ManLojReg.ipynb"> - Örnek Çalışma</a>
