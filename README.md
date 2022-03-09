@@ -45,4 +45,4 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-ManLojReg.ipynb"> - Örnek Çalışma</a></p>
 
 <H2> KNN Örneği </H2>
-<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_KNN.ipynb"> - Örnek Çalışma</a>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_knn.ipynb"> - Örnek Çalışma</a>
