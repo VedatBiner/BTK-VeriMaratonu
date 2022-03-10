@@ -54,4 +54,4 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_KararAgaci.ipynb"> - Örnek Çalışma</a>
 
 <H2> Rastgele Orman (Random Forest) Örneği </H2>
-<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_RasgleOrman.ipynb"> - Örnek Çalışma</a>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_RasgeleOrman.ipynb"> - Örnek Çalışma</a>
