@@ -58,3 +58,6 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Karmaşıklık Matrisi (Confusion Matrix) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_CM.ipynb"> - Örnek Çalışma</a>
+
+<H2> K Ortalama (K-Means) Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/kumeleme1.ipynb"> - Örnek Çalışma</a>
