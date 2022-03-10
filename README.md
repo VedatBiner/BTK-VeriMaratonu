@@ -49,3 +49,9 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Support Vector Machine (SVM) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_svm.ipynb"> - Örnek Çalışma</a>
+
+<H2> Karar Ağacı (Decision Tree) Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_KararAgaci.ipynb"> - Örnek Çalışma</a>
+
+<H2> Rastgele Orman (Random Forest) Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik_RasgleOrman.ipynb"> - Örnek Çalışma</a>
