@@ -70,3 +70,9 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Öznitelik Seçimi Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/OznitelikSecimi.ipynb"> - Örnek Çalışma</a>
+
+<H2> Çapraz Doğrulama Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/ÇaprazDogrulama.ipynb"> - Örnek Çalışma</a>
+
+<H2> Izgara Araması Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/GridSearch.ipynb"> - Örnek Çalışma</a>
