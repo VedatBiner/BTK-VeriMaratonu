@@ -41,7 +41,7 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <H2>Lojistik Regresyon Örneği</H2>
 <p>Lojistik Regresyon Kütüphanesi Kullanılarak Yapılan Kodlama
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-LojReg.ipynb"> - Örnek Çalışma</a></p>
-<p>Lojistik Regresyon Kütüphanesi Kullanılmadan Fonksiyon Yazılarak Kodlama
+<p>Lojistik Regresyon Kütüphanesi Kullanılmadan Fonksiyon Yazılarak Kodlama (Kodda eksiklik var !!!)
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-ManLojReg.ipynb"> - Örnek Çalışma</a></p>
 
 <H2> K-Nearest Neighbors (KNN) Örneği </H2>
@@ -64,3 +64,9 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Hiyerarşik Kümeleme ve Dendogram Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/kumeleme2.ipynb"> - Örnek Çalışma</a>
+
+<H2> Temel Bileşen Analizi Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/TemelBilesenAnalizi-PCA.ipynb"> - Örnek Çalışma</a>
+
+<H2> Öznitelik Seçimi Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/OznitelikSecimi.ipynb"> - Örnek Çalışma</a>
