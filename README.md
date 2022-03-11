@@ -76,3 +76,6 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Izgara Araması Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/GridSearch.ipynb"> - Örnek Çalışma</a>
+
+<H2> Yapay Sinir Ağları (2 Katman) Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/YapaySinirAglari.ipynb"> - Örnek Çalışma</a>
