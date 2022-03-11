@@ -61,3 +61,6 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> K Ortalama (K-Means) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/kumeleme1.ipynb"> - Örnek Çalışma</a>
+
+<H2> Hiyerarşik Kümeleme ve Dendogram Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/kumeleme2.ipynb"> - Örnek Çalışma</a>
