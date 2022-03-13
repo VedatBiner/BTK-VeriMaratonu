@@ -82,3 +82,6 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Evrişimli Sinir Ağları (CNN) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/CNN-EvrisimselSinirAglari.ipynb"> - Örnek Çalışma</a>
+
+<H2> Tekrarlayan Sinir Ağları (RNN) Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/RNN-SinirAglari.ipynb"> - Örnek Çalışma</a>
