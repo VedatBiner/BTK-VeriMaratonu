@@ -41,7 +41,7 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <H2>Lojistik Regresyon Örneği</H2>
 <p>Lojistik Regresyon Kütüphanesi Kullanılarak Yapılan Kodlama
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-LojReg.ipynb"> - Örnek Çalışma</a></p>
-<p>Lojistik Regresyon Kütüphanesi Kullanılmadan Fonksiyon Yazılarak Kodlama (Kodda eksiklik var !!!)
+<p>Lojistik Regresyon Kütüphanesi Kullanılmadan Fonksiyon Yazılarak Kodlama
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Ortopedik-ManLojReg.ipynb"> - Örnek Çalışma</a></p>
 
 <H2> K-Nearest Neighbors (KNN) Örneği </H2>
@@ -85,3 +85,9 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Tekrarlayan Sinir Ağları (RNN) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/RNN-SinirAglari.ipynb"> - Örnek Çalışma</a>
+
+<H2> Pekiştirmeli Öğrenme - Donumş Göl Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/ReinforcementLearning.ipynb"> - Örnek Çalışma</a>
+
+<H2> Proje-1 Göğüs Kanseri Sınıflandırma Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje1-BreastCancer.ipynb"> - Örnek Çalışma</a>
