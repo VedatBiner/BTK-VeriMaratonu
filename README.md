@@ -86,7 +86,7 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <H2> Tekrarlayan Sinir Ağları (RNN) Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/RNN-SinirAglari.ipynb"> - Örnek Çalışma</a>
 
-<H2> Pekiştirmeli Öğrenme - Donumş Göl Örneği </H2>
+<H2> Pekiştirmeli Öğrenme - Donmuş Göl Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/ReinforcementLearning.ipynb"> - Örnek Çalışma</a>
 
 <H2> Proje-1 Göğüs Kanseri Sınıflandırma Örneği </H2>
