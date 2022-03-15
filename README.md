@@ -93,7 +93,7 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje1-BreastCancer.ipynb"> - Örnek Çalışma</a>
 
 <H2> Proje-2 IMDB Duygu Analizi Örneği </H2>
-<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje2-SentimentAnalysis.ipynb"> - Örnek Çalışma</a>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje2-SentimentAnalysis-IMDB.ipynb"> - Örnek Çalışma</a>
 
 <H2> Proje-3 Araçların Yakıt Tüketimi Analizi Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje3-YakitTuketimi.ipynb"> - Örnek Çalışma</a>
