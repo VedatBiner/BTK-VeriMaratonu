@@ -97,3 +97,6 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Proje-3 Araçların Yakıt Tüketimi Analizi Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje3-YakitTuketimi.ipynb"> - Örnek Çalışma</a>
+
+<H2> Proje-4 Meyve ve Sebze Sınıflandırma Örneği </H2>
+<a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje4-MeyveSebzeSiniflandirma.ipynb"> - Örnek Çalışma</a>
