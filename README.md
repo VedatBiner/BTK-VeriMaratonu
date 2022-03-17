@@ -100,3 +100,9 @@ Buradaki örnekler Jupyter Notebook düzenindedir. Veri setlerini ayrıca indirm
 
 <H2> Proje-4 Meyve ve Sebze Sınıflandırma Örneği </H2>
 <a href="https://github.com/VedatBiner/BTK-VeriMaratonu/blob/master/Proje4-MeyveSebzeSiniflandirma.ipynb"> - Örnek Çalışma</a>
+
+<H2> Büyük Veri (Big Data) Çalışmları </H2>
+<H3> Örnek-1 </H3>
+<p>Buradaki örnekler sanal sistem üzerinde yazılmıştır ve çalıştırılmıştır. Lokal bilgisayarda herhangi bir kütüphane kurulmamıştır.</p>
+Bu örnek için önce <a href="https://mockaroo.com/"> bu siteden</a> sanal veri oluşturulmuştur.
+Daha sonra bu sitedeki <a href="https://community.cloud.databricks.com/login.html"> Sanal Sistemde</a> önce veriler upload edilmiştir. Daha sonra Jupyter benzeri bir notebook ile çalışılmıştır. Örnek kod buradadır.
